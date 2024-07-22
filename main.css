@@ -64,7 +64,8 @@ section h2 {
 }
 
 .section-images img {
-    width: 10px; /* 画像の幅を設定 */
+    width: 100%; /* 画像の幅をコンテナに合わせる */
+    max-width: 300px; /* 画像の最大幅を設定 */
     height: auto; /* 高さは自動調整 */
 }
 
