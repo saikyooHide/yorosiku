@@ -64,8 +64,8 @@ section h2 {
 }
 
 .sigoto .sigoto-img {
-    width: 50%; /* 画像の幅をコンテナに合わせる */
-    max-width: 100px; /* 画像の最大幅を設定 */
+    width: 100%; /* 画像の幅をコンテナに合わせる */
+    max-width: 240px; /* 画像の最大幅を設定 */
     height: auto; /* 高さは自動調整 */
 }
 table {
