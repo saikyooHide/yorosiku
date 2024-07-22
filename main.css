@@ -63,7 +63,7 @@ section h2 {
     color: #4CAF50;
 }
 
-.section-images sigoto-img {
+.sigoto .sigoto-img {
     width: 50%; /* 画像の幅をコンテナに合わせる */
     max-width: 100px; /* 画像の最大幅を設定 */
     height: auto; /* 高さは自動調整 */
